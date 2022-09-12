@@ -1,8 +1,8 @@
 # Repositorio De Prueba
-Primer repositorio Github, para ir a Google, presione [*aquí*](https://www.google.com)
+Primer repositorio Github
 
 ## Opciones de como añadir Variedad de Items
-Como añadir una URL?
+Como añadir una [*URL?*](https://www.google.com)
 ```
   [Texto](URL)
 ```
