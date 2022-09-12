@@ -54,5 +54,7 @@ Como crear una
 2. 2ndo paso
 ```
 
-~~The world is flat.~~
-
+Como se ~~Tacha~~ el texto?
+```
+~~Texto~~
+```
