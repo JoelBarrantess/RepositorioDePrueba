@@ -61,4 +61,5 @@ Como se ~~Tacha~~ el texto?
 ~~Texto~~
 ```
  
+![GIF](https://media.giphy.com/media/l2Sq2Iw6xwrlzrLs4/giphy.gif)
  
