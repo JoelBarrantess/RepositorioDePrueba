@@ -7,8 +7,6 @@ Como añadir una URL?
   [Texto](URL)
 ```
 
-
-
 Como añadir una Imagen?
 
 ```
