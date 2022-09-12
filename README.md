@@ -1,7 +1,2 @@
-Repositorio De Prueba<a name="TOP"></a>
-===================
+# Repositorio De Prueba
 Primer repositorio Github
-
-- - - -
-# Esto es una prueba
-- - - -
