@@ -2,6 +2,6 @@
 Primer repositorio Github, para ir a Google, presione [aquí](https://www.google.com)
 
 Como añadir una URL?
-`code`
-[Texto](URL)
-`code`
+`
+[Texto](URL)`
+
