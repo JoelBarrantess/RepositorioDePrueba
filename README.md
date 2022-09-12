@@ -8,7 +8,7 @@ Como añadir una [*URL?*](https://www.google.com)
 ```
 
 Como añadir una imagen como esta?
-![Imagen?](Imagen.png)
+![Imagen?](imagen.png)
 
 ```
  ![Texto opcional](Imagen.png)
