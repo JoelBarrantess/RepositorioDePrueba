@@ -62,4 +62,10 @@ Como se ~~Tacha~~ el texto?
 ~~Texto~~
 ```
 
+| titulo | Titulo 2 | Titulo 3 |
+|--------|:........:|---------:|
+| Nombre | Apellido | Apellido 2|
+|Nombre2 | Apellido 3 | Apellido 4 |
+|Col 3 | esta alineada | derecha |
+|Col 4 | esta alineada | central |
  
