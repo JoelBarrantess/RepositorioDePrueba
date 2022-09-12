@@ -7,9 +7,10 @@ Como añadir una [*URL?*](https://www.google.com)
   [Texto](URL)
 ```
 
-Como añadir una imagen como esta?
+Como añadir una imagen o gif como estas?
  
 ![Imagen?](imagen.png)
+![GIF](https://media.giphy.com/media/l2Sq2Iw6xwrlzrLs4/giphy.gif)
 
 ```
  ![Texto opcional](Imagen.png)
@@ -60,6 +61,5 @@ Como se ~~Tacha~~ el texto?
 ```
 ~~Texto~~
 ```
- 
-![GIF](https://media.giphy.com/media/l2Sq2Iw6xwrlzrLs4/giphy.gif)
+
  
