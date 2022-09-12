@@ -62,7 +62,6 @@ Como se ~~Tacha~~ el texto?
 ~~Texto~~
 ```
 
-
 | titulo | Titulo 2 | Titulo 3 |
 |--------|:........:|---------:|
 | Nombre | Apellido | Apellido 2|
