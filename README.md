@@ -8,6 +8,7 @@ Como añadir una [*URL?*](https://www.google.com)
 ```
 
 Como añadir una Imagen?
+!(Imagen.jpg)
 
 ```
  ![Texto opcional](Imagen.png)
