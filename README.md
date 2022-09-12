@@ -49,8 +49,8 @@ y asi...
 
 Como crear una
 
-1.lista
-2.ordenada?
+1. lista
+2. ordenada?
 ```
 1. 1r paso
 2. 2ndo paso
