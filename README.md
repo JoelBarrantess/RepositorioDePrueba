@@ -47,7 +47,8 @@ o
 y asi...
 ```
 
-Como crear una lista ordenada
+Como crear una
+
 1.lista
 2.ordenada?
 ```
