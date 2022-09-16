@@ -68,4 +68,3 @@ Como se ~~Tacha~~ el texto?
 |Nombre2 | Apellido 3 | Apellido 4 |
 |Col 3 | esta alineada | derecha |
 |Col 4 | esta alineada | central |
-  
