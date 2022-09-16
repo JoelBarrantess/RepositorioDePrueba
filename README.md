@@ -65,4 +65,9 @@ Como se ~~Tacha~~ el texto?
 | Como  | Hacer | Una |
 |--------|:---------:|---------:|
 | Tabla | Como | Esta? |
+```
+Para crear una tabla, solo hay que escribir asi
+| Titulo 1 | Titulo 2 | Titulo 3 |
+| Texto 1 | Texto 2 | Texto 3 |
+```
 
